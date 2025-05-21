@@ -1,2 +1,1 @@
-## Website template
-
+## Site template v1
